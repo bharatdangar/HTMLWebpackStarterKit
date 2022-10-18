@@ -1,5 +1,4 @@
-# Outsourcify's HTML Starter with Webpack
-# https://outsourcify.net
+#HTML Starter with Webpack
 
 Install the dependencies:
 
